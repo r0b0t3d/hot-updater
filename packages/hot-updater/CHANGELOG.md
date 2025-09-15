@@ -1,5 +1,19 @@
 # hot-updater
 
+## 0.20.11
+
+### Patch Changes
+
+- 3f1ea3a: feat(fingerprint): bring back ignorePaths
+- Updated dependencies [3f1ea3a]
+  - @hot-updater/plugin-core@0.20.11
+  - @hot-updater/console@0.20.11
+  - @hot-updater/aws@0.20.11
+  - @hot-updater/cloudflare@0.20.11
+  - @hot-updater/firebase@0.20.11
+  - @hot-updater/supabase@0.20.11
+  - @hot-updater/core@0.20.11
+
 ## 0.20.10
 
 ### Patch Changes
